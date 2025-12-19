@@ -10,7 +10,6 @@
 #define LIGHT_THRESHOLD  80  
 #define SOIL_THRESHOLD   2300 
 
-// ===== VARIABEL GLOBAL =====
 volatile int lightIntensity = 0;
 volatile int soilMoisture   = 0;
 

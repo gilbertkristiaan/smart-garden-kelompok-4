@@ -9,7 +9,6 @@
 #define STATUS_THRESH_PCT   50          
 #define EMA_K               8
 #define SHOW_DEBUG_RAW      1
-
 #define REF_WET_RAW         3800       
 #define REF_DRY_RAW         3900       
 

@@ -77,10 +77,9 @@ Sistem dibagi menjadi beberapa Task FreeRTOS:
 
 ### Fitur Utama
 
-* Multitasking berbasis FreeRTOS
-* Kontrol pompa & grow light otomatis
-* Komunikasi nirkabel ESP-NOW (broadcast)
-* Sistem siap dikembangkan menjadi Smart Garden
+* _Multitasking_ berbasis FreeRTOS
+* Kontrol pompa & _grow light_ otomatis
+* Komunikasi nirkabel ESP-NOW (_broadcast_)
 * RTOS: FreeRTOS (built-in ESP32)
 * Protokol: ESP-NOW
 

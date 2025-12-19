@@ -6,7 +6,7 @@
 * Ivan Jehuda Angi
 
 ## Testimoni (~~100% Nyata~~): 
-![Testi REAL 100%](gambar/aff0123813918da8sd98382ea1692831ab1.jpg)
+<img src="gambar/aff0123813918da8sd98382ea1692831ab1.jpg" width="480">
 
 ## Daftar Proyek
 

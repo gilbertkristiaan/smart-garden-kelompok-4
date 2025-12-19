@@ -5,6 +5,9 @@
 * Calvin Joy Tarigan
 * Ivan Jehuda Angi
 
+## Testimoni (~~100% Nyata~~): 
+![Testi REAL 100%](gambar/aff0123813918da8sd98382ea1692831ab1.jpg)
+
 ## Daftar Proyek
 
 * [**AVR XMEGA A3BU (Soil Moisture System)**](#avr-xmega-a3bu-soil-moisture-system)
@@ -18,7 +21,7 @@
 
 Proyek ini berfokus papada sistem penyiraman tanaman otomatis berbasis AVR XMEGA A3BU. Sistem ini berfokus pada pembacaan kelembaban tanah dan kontrol pompa air menggunakan _relay_.
 
-Sistem bekerja secara _standalone_ (tanpa konektivitas jaringan) dan menampilkan informasi secara real-time melalui _LCD onboard_.
+Sistem bekerja secara _standalone_ (tanpa konektivitas jaringan) dan menampilkan informasi secara _real-time_ melalui _LCD onboard_.
 
 ### Tujuan
 

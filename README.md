@@ -5,6 +5,14 @@
 * Calvin Joy Tarigan
 * Ivan Jehuda Angi
 
+## Dokumentasi
+
+### AVR XMEGA A3BU
+<img src="gambar/aff0123813918da8sd98382ea1692831ab2.png" width="480">
+
+### ESP32
+<img src="gambar/aff0123813918da8sd98382ea1692831ab3.png" width="480">
+
 ## Testimoni (~~100% Nyata~~): 
 <img src="gambar/aff0123813918da8sd98382ea1692831ab1.jpg" width="480">
 
@@ -72,7 +80,7 @@ Sistem menggunakan FreeRTOS untuk _multitasking_ dan ESP-NOW untuk komunikasi ni
 
 ### Arsitektur Sistem
 
-Sistem dibagi menjadi beberapa Task FreeRTOS:
+Sistem dibagi menjadi beberapa _Task_ FreeRTOS:
 
 1. _Task Soil Sensor_ - membaca kelembaban tanah
 2. _Task Light Sensor_ - membaca intensitas cahaya
@@ -85,5 +93,3 @@ Sistem dibagi menjadi beberapa Task FreeRTOS:
 * Komunikasi nirkabel ESP-NOW (_broadcast_)
 * RTOS: FreeRTOS (built-in ESP32)
 * Protokol: ESP-NOW
-
----

@@ -10,6 +10,7 @@
 #define LIGHT_THRESHOLD  80  
 #define SOIL_THRESHOLD   2300 
 
+// buat integrator
 uint8_t broadcastAddress[] = {0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF};
 
 typedef struct struct_message {
